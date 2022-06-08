@@ -1,0 +1,15 @@
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.csproj.AssemblyReference.cache
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.AssemblyInfoInputs.cache
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.AssemblyInfo.cs
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.csproj.CoreCompileInputs.cache
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\bin\Debug\net6.0\C#_POO_ExLista1.exe
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\bin\Debug\net6.0\C#_POO_ExLista1.deps.json
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\bin\Debug\net6.0\C#_POO_ExLista1.runtimeconfig.json
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\bin\Debug\net6.0\C#_POO_ExLista1.dll
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\bin\Debug\net6.0\C#_POO_ExLista1.pdb
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.dll
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\refint\C#_POO_ExLista1.dll
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.pdb
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\C#_POO_ExLista1.genruntimeconfig.cache
+C:\Users\Bea\Documents\Codigos\BackEnd\C#_POO_ExLista1\obj\Debug\net6.0\ref\C#_POO_ExLista1.dll
